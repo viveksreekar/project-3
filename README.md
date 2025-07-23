@@ -1,7 +1,7 @@
 # Project-3
 
 ------------------------------------------
-#📊 1. Exploratory Data Analysis (EDA) on Zomato Bangalore Restaurants
+# 📊 1. Exploratory Data Analysis (EDA) on Zomato Bangalore Restaurants
 
 This project performs a deep exploratory data analysis on the Zomato Bangalore Restaurants dataset to uncover key factors driving restaurant success. The analysis focuses on ratings, cost, location, and service offerings to provide actionable insights.
 
@@ -26,7 +26,7 @@ This project performs a deep exploratory data analysis on the Zomato Bangalore R
 
 ---
 
-#🤖 2. Fake News Detection Model
+# 🤖 2. Fake News Detection Model
 
 This project builds a machine learning model to classify news articles as "REAL" or "FAKE". It uses Natural Language Processing (NLP) techniques to process the text and a linear classifier to make predictions, achieving high accuracy on the test set.
 
@@ -51,7 +51,7 @@ This project builds a machine learning model to classify news articles as "REAL"
 
 ---
 
-#📸 3. Image Caption Generator
+# 📸 3. Image Caption Generator
 
 This advanced deep learning project combines Computer Vision and NLP to generate descriptive captions for images. It uses a CNN-LSTM encoder-decoder architecture to understand the content of an image and translate that understanding into natural language.
 
