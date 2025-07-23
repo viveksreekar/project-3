@@ -22,7 +22,7 @@ This project performs a deep exploratory data analysis on the Zomato Bangalore R
     3.  Download the dataset from the Kaggle link below and place it in the project directory.
     4.  Run the Jupyter Notebook or Python script to see the full analysis.
 
-* **Dataset Link:** [Zomato Bangalore Restaurants on Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
+* **📂Dataset Link:** [Zomato Bangalore Restaurants on Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
 ---
 
@@ -47,7 +47,7 @@ This project builds a machine learning model to classify news articles as "REAL"
     3.  Download the dataset and ensure `true.csv` and `fake.csv` are in the root directory.
     4.  Run the script: `python fake_news_detection_model.py`
 
-* **Dataset Link:** [Fake and Real News Dataset on Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+* **📂Dataset Link:** [Fake and Real News Dataset on Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 ---
 
@@ -74,4 +74,4 @@ This advanced deep learning project combines Computer Vision and NLP to generate
     4.  **Note:** Training this model is computationally intensive and requires a GPU. It's highly recommended to run it on a platform like Google Colab.
     5.  Run the Python script to start the training process or generate captions using a pre-trained model.
 
-* **Dataset Link:** [Flickr8k Dataset on Kaggle](https://www.kaggle.com/datasets/adityajn105/flickr8k)
+* **📂Dataset Link:** [Flickr8k Dataset on Kaggle](https://www.kaggle.com/datasets/adityajn105/flickr8k)
